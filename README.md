@@ -1,2 +1,2 @@
 # Software--Testing_siwaz
-งานอยู่ใน branche นะคับ
+งานอยู่ใน branche master นะคับ
